@@ -25,7 +25,7 @@ A classic game of Rock, Paper, Scissors against the computer. This project utili
 To get started with these projects, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourgithubusername/your-repository-name.git
+git clone https://github.com/karanm645/snakes-and-scripts.git
 ```
 
 Navigate to the project of your choice and run it using Python. For example:
